@@ -1,0 +1,67 @@
+{
+    "menuItems": [
+        {
+            "itemName": "Greek Salad",
+            "price": 12.99,
+            "description": "The famous greek salad of crispy lettuce, peppers, olives and our Chicago style feta cheese, garnished with crunchy garlic and rosemary croutons. ",
+            "special": true,
+            "delivery": "20",
+            "add": [
+                {
+                    "addName": "Avocado",
+                    "addPrice": 1.00
+                },
+                {
+                    "addName": "Cucumber",
+                    "addPrice": 1.00
+                },
+                {
+                    "addName": "Red Onion",
+                    "addPrice": 1.00
+                }
+            ]
+        },
+        {
+            "itemName": "Bruschetta",
+            "price": 7.99,
+            "description": "Our Bruschetta is made from grilled bread that has been smeared with garlic and seasoned with salt and olive oil. Toppings of tomato, veggies, beans, cured pork, or cheese are examples of variations.",
+            "special": true,
+            "delivery": "20",
+            "add": [
+                {
+                    "addName": "Basil",
+                    "addPrice": 1.00
+                },
+                {
+                    "addName": "Chilli",
+                    "addPrice": 1.00
+                },
+                {
+                    "addName": "Ricotta",
+                    "addPrice": 1.00
+                }
+            ]
+        },
+        {
+            "itemName": "Lemon Dessert",
+            "price": 18.99,
+            "description": "Lemon cream cheese pudding dessert has Graham crackers, lemon pudding, cream cheese and whipped topping layered, a perfect finale for your lunch that melts in your mouth.",
+            "special": true,
+            "delivery": "20",
+            "add": [
+                {
+                    "addName": "Basil",
+                    "addPrice": 1.00
+                },
+                {
+                    "addName": "Chilli",
+                    "addPrice": 1.00
+                },
+                {
+                    "addName": "Ricotta",
+                    "addPrice": 1.00
+                }
+            ]
+        }
+    ]
+}
